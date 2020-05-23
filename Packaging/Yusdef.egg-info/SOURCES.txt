@@ -1,0 +1,7 @@
+README.md
+setup.py
+Yusdef/__init__.py
+Yusdef.egg-info/PKG-INFO
+Yusdef.egg-info/SOURCES.txt
+Yusdef.egg-info/dependency_links.txt
+Yusdef.egg-info/top_level.txt
